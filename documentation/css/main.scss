@@ -3,7 +3,13 @@
 ---
 @charset "utf-8";
 
-@import "../../assets/stylesheets/local-ui";
+@import "assets/stylesheets/local-ui";
+
+body {
+  background-color: yellow;
+  background-color: pink;
+  background-color: red;
+}
 
 
 // Our variables
