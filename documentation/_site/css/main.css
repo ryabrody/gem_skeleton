@@ -1,5 +1,18 @@
 body {
-  background-color: blue !important; }
+  background-color: blue !important;
+  padding-top: 100px !important;
+  background-color: orange;
+  background-color: green;
+  background-color: pink;
+  background-color: red;
+  background-color: red;
+  background-color: orange;
+  background-color: purple; }
+
+body {
+  background-color: yellow;
+  background-color: pink;
+  background-color: red; }
 
 /**
  * Reset some basic elements
