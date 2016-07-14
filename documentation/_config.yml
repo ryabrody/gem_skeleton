@@ -22,4 +22,4 @@ markdown: kramdown
 
 # Exclude from build
 exclude: [Gemfile, Gemfile.lock]
-site_source: documentation
+   
