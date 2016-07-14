@@ -7,3 +7,4 @@ test/dummy/log/*.log
 test/dummy/tmp/
 .sass-cache
 .jekyll-metadata
+Gemfile.lock
