@@ -1,3 +1,4 @@
+documentation/_site/
 .bundle/
 log/*.log
 pkg/
