@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = GemSkeleton::VERSION
   s.authors     = ["Franca Rast"]
   s.email       = ["franca.rast@local.ch"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of GemSkeleton."
-  s.description = "TODO: Description of GemSkeleton."
+  s.homepage    = "https://local.ch"
+  s.summary     = "Summary of GemSkeleton."
+  s.description = "Description of GemSkeleton."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
