@@ -5,7 +5,7 @@ require "gem_skeleton/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "gem_skeleton"
+  s.name        = "gem_skeleton_2"
   s.version     = GemSkeleton::VERSION
   s.authors     = ["Franca Rast"]
   s.email       = ["franca.rast@local.ch"]
